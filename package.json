@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@handsontable/vue": "^4.1.0",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "blob": "0.0.5",
     "core-js": "^2.6.5",
     "dayjs": "^1.8.15",
